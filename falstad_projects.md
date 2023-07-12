@@ -1,6 +1,11 @@
 # falstad seven segment projects
 
-## Wed 12 Jul 17:39:43 UTC 2023
+## Wed 12 Jul 18:38:45 UTC 2023
+
+2.
+
+  https://tinyurl.com/2kascbk5 **current**
+
 
 1.
 
